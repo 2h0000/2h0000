@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning on github.
-- Github is really a good place which help me study!
+Good good study, day day up.
 
 <!--
 **2h0000/2h0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
